@@ -14,14 +14,8 @@
 * 📷[Instagram (@n.w._pictures)](https://www.instagram.com/n.w._pictures)
 * 💬[Discord (@selffillingwastebin)](https://discord.com/invite/3fG4TpY5)
 * 🔔[Snapchat](https://www.snapchat.com/add/nckstuaw)
-* ## Games
-* [Steam](https://steamcommunity.com/id/nickinnovates/games/?tab=all)
-* Minecraft
-  * Currently active on:
-    * [WinterCrest](https://wintercrestmc.com/)
-    * [Free Winds SMP](https://discord.gg/gMv6UQ7M9d)
-  * Publication platform profiles for Minecraft server plugins:
-    * [SpigotMC.org](https://www.spigotmc.org/members/nebula_1.1007613/)
+* # 🗺 Places I'd love to visit at least once
+* 📍[Trolltunga viewpoint, Norway](https://www.google.com/maps/place/Trolltunga/@60.1241511,5.9242474,9z/data=!4m10!1m2!2m1!1strolltunga+viewpoint!3m6!1s0x463e997b1b732151:0x9b7c92bfdc268ed8!8m2!3d60.124167!4d6.74!15sChR0cm9sbHR1bmdhIHZpZXdwb2ludFoWIhR0cm9sbHR1bmdhIHZpZXdwb2ludJIBBHBlYWuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmhaM1pmWVhoM1JSQULgAQA!16zL20vMGZtbmQ0?entry=ttu)
 * # 🎶 Musical proficiencies
 * Drums (Debut, Grade 1, Grade 2)
 * Piano
@@ -47,8 +41,14 @@
   * [Installation scripts for Arch Linux](https://github.com/nickstuaw/ArchScripts)
   * [Complex Minecraft server plugins](https://github.com/nickstuaw?tab=repositories&q=minecraft&type=source&language=java&sort=)
   * [Various other Java applications](https://github.com/nickstuaw?tab=repositories&q=&type=source&language=java&sort=)
-* # 🗺 Places I'd love to visit at least once
-* 📍[Trolltunga viewpoint, Norway](https://www.google.com/maps/place/Trolltunga/@60.1241511,5.9242474,9z/data=!4m10!1m2!2m1!1strolltunga+viewpoint!3m6!1s0x463e997b1b732151:0x9b7c92bfdc268ed8!8m2!3d60.124167!4d6.74!15sChR0cm9sbHR1bmdhIHZpZXdwb2ludFoWIhR0cm9sbHR1bmdhIHZpZXdwb2ludJIBBHBlYWuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmhaM1pmWVhoM1JSQULgAQA!16zL20vMGZtbmQ0?entry=ttu)
+* ## Games
+* [Steam](https://steamcommunity.com/id/nickinnovates/games/?tab=all)
+* Minecraft
+  * Currently active on:
+    * [WinterCrest](https://wintercrestmc.com/)
+    * [Free Winds SMP](https://discord.gg/gMv6UQ7M9d)
+  * Publication platform profiles for Minecraft server plugins:
+    * [SpigotMC.org](https://www.spigotmc.org/members/nebula_1.1007613/)
 * # Programming Languages
 * ## I'm fluent with...
   * [Java](https://www.java.com/)
