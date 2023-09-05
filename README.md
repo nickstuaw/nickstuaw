@@ -28,8 +28,6 @@
 * Guitar
 * Bass Guitar (Grade 1)
 * [Ableton Live 10 Standard (DAW)](https://www.ableton.com/en/live/)
-* # Places I'd love to visit at least once
-* 📍[Trolltunga viewpoint, Norway](https://www.google.com/maps/place/Trolltunga/@60.1241511,5.9242474,9z/data=!4m10!1m2!2m1!1strolltunga+viewpoint!3m6!1s0x463e997b1b732151:0x9b7c92bfdc268ed8!8m2!3d60.124167!4d6.74!15sChR0cm9sbHR1bmdhIHZpZXdwb2ludFoWIhR0cm9sbHR1bmdhIHZpZXdwb2ludJIBBHBlYWuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmhaM1pmWVhoM1JSQULgAQA!16zL20vMGZtbmQ0?entry=ttu)
 * # 🎶 Current favourite artist(s) to listen to
 * 🎤[Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64?si=O-6L8QG2R3qsiZBeHlfGmQ)
 * 🎤[Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q?si=ci5myxgTQNurg-sZQhxLsQ)
@@ -39,7 +37,7 @@
 * 🎤[The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V?si=oBhu42agReyhpY-CmAcaCQ)
 * 🎤[OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ?si=xnEsK3iXQf6RFtsDlMLQbA)
 * 🎤[Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=2VK3G3KcR8CVFxb7STGfPQ)
-* # If you have my phone number, you're welcome to contact me directly through:
+* # 📱 If you have my phone number, you're welcome to contact me directly through:
 * SMS
 * [WhatsApp](https://www.whatsapp.com/)
 * [Facebook Messenger](https://www.messenger.com/)
@@ -49,6 +47,8 @@
   * [Installation scripts for Arch Linux](https://github.com/nickstuaw/ArchScripts)
   * [Complex Minecraft server plugins](https://github.com/nickstuaw?tab=repositories&q=minecraft&type=source&language=java&sort=)
   * [Various other Java applications](https://github.com/nickstuaw?tab=repositories&q=&type=source&language=java&sort=)
+* # 🗺 Places I'd love to visit at least once
+* 📍[Trolltunga viewpoint, Norway](https://www.google.com/maps/place/Trolltunga/@60.1241511,5.9242474,9z/data=!4m10!1m2!2m1!1strolltunga+viewpoint!3m6!1s0x463e997b1b732151:0x9b7c92bfdc268ed8!8m2!3d60.124167!4d6.74!15sChR0cm9sbHR1bmdhIHZpZXdwb2ludFoWIhR0cm9sbHR1bmdhIHZpZXdwb2ludJIBBHBlYWuaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVTmhaM1pmWVhoM1JSQULgAQA!16zL20vMGZtbmQ0?entry=ttu)
 * # Programming Languages
 * ## I'm fluent with...
   * [Java](https://www.java.com/)
