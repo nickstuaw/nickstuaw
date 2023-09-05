@@ -29,6 +29,7 @@
 * Bass Guitar (Grade 1)
 * [Ableton Live 10 Standard (DAW)](https://www.ableton.com/en/live/)
 * # 🎶 Current favourite artist(s) to listen to
+* 🎤[Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64?si=O-6L8QG2R3qsiZBeHlfGmQ)
 * 🎤[Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q?si=ci5myxgTQNurg-sZQhxLsQ)
 * 🎤[Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU?si=KGRdLJ8iTMiIF7yU4fLoRg)
 * 🎤[George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j?si=4EwmSVy1R4SEt0QDLdfrBA)
