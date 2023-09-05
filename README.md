@@ -1,4 +1,4 @@
-# Nicholas Williams (Nick is my nickname 🙌)
+# Nicholas S. G. Williams (preferred: Nick)
 * 20 Years Old (February, 2003)
 * 📌 Studying in Manchester, U.K.
 * I want to work for Android 🤔
