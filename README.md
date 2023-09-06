@@ -2,7 +2,7 @@
 * 20 Years Old (February, 2003)
 * 📌 Studying in Manchester, U.K.
 * I want to work for Android 🤔
-* E-mail: [`enquiries@nickinnovates.com`](mailto://enquiries@nickinnovates.com`)
+* E-mail: [`enquiries@nickinnovates.com`](mailto://enquiries@nickinnovates.com)
 * # Favourite quotes
 * ["The more you know, the more you realise you don't know." - Aristotle](https://plato.stanford.edu/entries/aristotle/)
 * # Other platforms
