@@ -8,7 +8,7 @@
 * # Other platforms
 * 🎶[Spotify listening profile](https://open.spotify.com/user/8sfnm8524w0hrxr93law174sr?si=828da995ad4d48f1)
 * 🎶[Spotify artist profiile (my music production)](https://open.spotify.com/artist/7errC26iwGliXFBlzXEgUu)
-* 📚[Goodreads](https://www.goodreads.com/user/show/147918293-nicholas-williams)
+* 📚[Goodreads](https://www.goodreads.com/nickinnovates)
 * 🗺[OpenStreetMap](https://www.openstreetmap.org/user/NickInnovates)
 * 🤳[Instagram (@nickinnovates)](https://www.instagram.com/nickinnovates)
 * ✏[Instagram (@nick_._art)](https://www.instagram.com/nick_._art)
