@@ -40,6 +40,12 @@
 * [Telegram](https://telegram.org/)
 * [Signal](https://www.signal.org/)
 * # Coding Experience (section incomplete!)
+* ## Ongoing Projects
+* Current focus
+  * [IndentedInheritanceJavaGenerator](https://github.com/nickstuaw/IndentedInheritanceJavaGenerator/tree/master)
+* Sporadic focus
+  * [Egg Documentation](https://egg.nickinnovates.com/)
+* ## Dormant Projects
   * [Installation scripts for Arch Linux](https://github.com/nickstuaw/ArchScripts)
   * [Complex Minecraft server plugins](https://github.com/nickstuaw?tab=repositories&q=minecraft&type=source&language=java&sort=)
   * [Various other Java applications](https://github.com/nickstuaw?tab=repositories&q=&type=source&language=java&sort=)
@@ -74,8 +80,3 @@
   * Inheritance
 * ### I'm growing in confidence with...
   * Abstraction
-* # Ongoing Projects
-* Current focus
-  * [IndentedInheritanceJavaGenerator](https://github.com/nickstuaw/IndentedInheritanceJavaGenerator/tree/master)
-* Sporadic focus
-  * [Egg Documentation](https://egg.nickinnovates.com/)
