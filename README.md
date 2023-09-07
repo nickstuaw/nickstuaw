@@ -46,11 +46,13 @@
 * ## Games
 * [Steam](https://steamcommunity.com/id/nickinnovates/games/?tab=all)
 * Minecraft
-  * Currently active on:
+  * Regular Activity
+    * My own singleplayer survival world (20 minutes each evening)
+  * Erratic Activity
     * [WinterCrest](https://wintercrestmc.com/)
     * [Free Winds SMP](https://discord.gg/gMv6UQ7M9d)
-  * Publication platform profiles for Minecraft server plugins:
-    * [SpigotMC.org](https://www.spigotmc.org/members/nebula_1.1007613/)
+    * Publication platform profiles for Minecraft server plugins:
+      * [SpigotMC.org](https://www.spigotmc.org/members/nebula_1.1007613/)
 * # Programming Languages
 * ## I'm fluent with...
   * [Java](https://www.java.com/)
