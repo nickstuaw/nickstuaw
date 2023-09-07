@@ -47,7 +47,7 @@
 * [Steam](https://steamcommunity.com/id/nickinnovates/games/?tab=all)
 * Minecraft
   * Regular Activity
-    * My own singleplayer survival world (20 minutes each evening)
+    * My singleplayer survival world (20 minutes each evening)
   * Erratic Activity
     * [WinterCrest](https://wintercrestmc.com/)
     * [Free Winds SMP](https://discord.gg/gMv6UQ7M9d)
