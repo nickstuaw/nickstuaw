@@ -75,4 +75,7 @@
 * ### I'm growing in confidence with...
   * Abstraction
 * # Ongoing Projects
-  * [Egg Documentation](https://egg.nickinnovates.com/)
+  * Current focus
+    * [IndentedInheritanceJavaGenerator](https://github.com/nickstuaw/IndentedInheritanceJavaGenerator/tree/master)
+  * Sporadic focus
+    * [Egg Documentation](https://egg.nickinnovates.com/)
