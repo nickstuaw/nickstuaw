@@ -1,7 +1,7 @@
 # Nicholas S. G. Williams (preferred: Nick)
 * 20 Years Old (February, 2003)
 * 📌 Studying in Manchester, U.K.
-* I'm trying to become a solopreneur over the long term because I have a number of key ideas for digital products. My goal now is to bundle these plans together into one product.
+* I'm trying to become a solopreneur over the long term because I have a number of key ideas for digital products. My goal now is to bundle these plans together into one product. As harsh as it sounds, I have no interest in working for profit alongside anybody at this point in time - but I am open to voluntary and non-profit work.
 * As a fail-safe...: I want to work for Android 🤔
 * E-mail: [`enquiries@nickinnovates.com`](mailto://enquiries@nickinnovates.com)
 * # Favourite quotes
