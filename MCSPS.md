@@ -11,6 +11,8 @@ Placing stair blocks on the staircase.
 ## During tonight's session I will be focusing on...
 Lengthening the staircase further beneath the surface deepslate level.
 Rejuvenating my inventory.
+Fetching a bed from the closest village.
 ## Finished tasks
-I'm digging a staircase down to diamond level in my chosen living location for future mining use (y=~-59).
-- Done. Reached bedrock here... strange. They probably changed it in a new update.
+* Cave base co-ordinates saved.
+* I'm digging a staircase down to diamond level in my chosen living location for future mining use (y=~-59).
+  * Done. Reached bedrock here... strange. They probably changed it in a new update.
