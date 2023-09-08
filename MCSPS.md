@@ -1,5 +1,5 @@
 # Notes for my Minecraft Singleplayer Survival World
-## Constant time values
+## Timings
 * Began: `04/07/2023 19:25`
 * Session length limit per day: 20 minutes.
 * Session frequency: Intermittent but frequent.
