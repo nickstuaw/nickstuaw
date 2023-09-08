@@ -51,15 +51,16 @@
   * [Complex Minecraft server plugins](https://github.com/nickstuaw?tab=repositories&q=minecraft&type=source&language=java&sort=)
   * [Various other Java applications](https://github.com/nickstuaw?tab=repositories&q=&type=source&language=java&sort=)
 * ## Games
-* [Steam](https://steamcommunity.com/id/nickinnovates/games/?tab=all)
 * Minecraft
-  * Regular Activity
-    * My singleplayer survival world (20 minutes each evening)
-  * Erratic Activity
+    * [My singleplayer survival world (20 minutes each evening)](https://github.com/nickstuaw/nickstuaw/blob/main/MCSPS.md)
+```
+  * Rare activity (which is dependent on others' dependencies)
+    * [Steam](https://steamcommunity.com/id/nickinnovates/games/?tab=all)
     * [WinterCrest](https://wintercrestmc.com/)
     * [Free Winds SMP](https://discord.gg/gMv6UQ7M9d)
     * Publication platform profiles for Minecraft server plugins:
       * [SpigotMC.org](https://www.spigotmc.org/members/nebula_1.1007613/)
+```
 * # Programming Languages
 * ## I'm fluent with...
   * [Java](https://www.java.com/)
