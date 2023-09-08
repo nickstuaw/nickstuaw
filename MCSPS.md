@@ -7,7 +7,7 @@
 ## Currently working on...
 Placing stair blocks on the staircase.
 ## Problems discovered in the previous session which require further thought
-* 
+* My bed was blown up by the creeper encountered on Thursday night (7/9/23). I need to find or make a new bed. 1 wool in chest so I should return to the village.
 ## During tonight's session I will be focusing on...
 Lengthening the staircase further beneath the surface deepslate level.
 Rejuvenating my inventory.
