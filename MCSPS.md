@@ -6,5 +6,7 @@
 * Time played as of `Thursday` night: `0.86h`
 ## Currently working on...
 I'm digging a staircase down to diamond level in my chosen living location for future mining use (y=~-59).
+## Problems discovered in the previous session
+* 
 ## During tonight's session I will be focusing on...
 Lengthening the staircase further beneath the surface deepslate level.
