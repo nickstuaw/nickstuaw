@@ -5,12 +5,12 @@
 * Session frequency: Intermittent but frequent.
 * Time played as of `Thursday` night: `0.86h`
 ## Currently working on...
-Rejuvenating my inventory.
+Placing stair blocks on the staircase.
 ## Problems discovered in the previous session which require further thought
 * 
 ## During tonight's session I will be focusing on...
 Lengthening the staircase further beneath the surface deepslate level.
-
+Rejuvenating my inventory.
 ## Finished tasks
 I'm digging a staircase down to diamond level in my chosen living location for future mining use (y=~-59).
 - Done. Reached bedrock here... strange. They probably changed it in a new update.
