@@ -34,12 +34,6 @@
 * 🎤[The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V?si=oBhu42agReyhpY-CmAcaCQ)
 * 🎤[OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ?si=xnEsK3iXQf6RFtsDlMLQbA)
 * 🎤[Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8?si=2VK3G3KcR8CVFxb7STGfPQ)
-* # 📱 If you have my phone number, you're welcome to contact me directly through:
-* SMS
-* [WhatsApp](https://www.whatsapp.com/)
-* [Facebook Messenger](https://www.messenger.com/)
-* [Telegram](https://telegram.org/)
-* [Signal](https://www.signal.org/)
 * # Coding Experience (section incomplete!)
 * ## Ongoing Projects
 * Current focus
