@@ -6,6 +6,7 @@
 * E-mail: [`enquiries@nickinnovates.com`](mailto://enquiries@nickinnovates.com)
 * # Favourite quotes
 * ["The more you know, the more you realise you don't know." - Aristotle](https://plato.stanford.edu/entries/aristotle/)
+* "Your brain is for having ideas, not holding them." - David Allen
 * # Other platforms
 * 🎶[Spotify listening profile](https://open.spotify.com/user/8sfnm8524w0hrxr93law174sr?si=828da995ad4d48f1)
 * 🎶[Spotify artist profiile (my music production)](https://open.spotify.com/artist/7errC26iwGliXFBlzXEgUu)
