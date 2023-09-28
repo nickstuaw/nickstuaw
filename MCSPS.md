@@ -11,7 +11,6 @@ Required materials:
 1 book, requiring 1 leather and 3 paper, requiring 3 sugar cane stalks
 Bookshelves, requiring 3 books each, requiring 3 leather and 9 paper, requiring 27 sugar cane stalks
 ## Problems discovered in the previous session which require further thought
-* None
 * What to do while the sugar cane is growing?
 ## During tonight's session I will be focusing on...
 ## Finished tasks
